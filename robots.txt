@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://fruteriaelcanario.com/sitemap.xml
